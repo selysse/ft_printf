@@ -17,6 +17,7 @@ My repositories for the 21 (42) schools "ft_printf" project
 > These functions are declared and related macros are defined in “stdio.h” which is a header file in C language.   
 
 # Installation
-
+```
 > git clone https://github.com/selysse/ft_printf.git  
 > make  
+```
