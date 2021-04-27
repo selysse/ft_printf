@@ -1,4 +1,4 @@
-## ft_printf
+## Ft_Printf
 
 ![Build Status](https://img.shields.io/github/license/selysse/ft_printf?style=plastic)
 ![Build Status](https://img.shields.io/github/languages/code-size/selysse/ft_printf?style=plastic)
